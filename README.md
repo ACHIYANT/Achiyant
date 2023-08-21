@@ -5,8 +5,10 @@
 <br>
 <br>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ACHIYANT&color=blueviolet&label=PROFILE+VIEWS&style=plastic" alt="profile view counter">
-    
+    <img src="https://komarev.com/ghpvc/?username=ACHIYANT&color=brightgreen&label=Profile+Views&style=plastic" alt="profile view counter">
+    <img src='https://badges.pufler.dev/commits/yearly/ACHIYANT' alt="commits this year"/> 
+    <img src='https://badges.pufler.dev/repos/ACHIYANT' alt="Repos"/>
+    <img src="https://badges.pufler.dev/years/ACHIYANT" alt="years"/>
 </p> <br>
 
 <!-- ![]() -->
