@@ -14,7 +14,7 @@
 
 <h2 align="center"> Self-taught, curious, and <img src="assets/flamey.gif" width="30"/>passionate<img src="assets/flamey.gif" width="30"/> about coding!</h2>
 
-* 🌳 I’m currently learning React ! <img src="assets/react-tp.gif" width="30"/>
+* 🌳 I’m currently learning React ! <img src="assets/react.gif" width="30"/><br>
 Actively Going through:
   - Big Data
   - Web Development Bootcamp
