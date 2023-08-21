@@ -11,6 +11,28 @@
     <img src="https://badges.pufler.dev/years/ACHIYANT" alt="years"/>
 </p> <br>
 
+
+<h2 align="center"> Self-taught, curious, and <img src="assets/flamey.gif" width="30"/>passionate<img src="assets/flamey.gif" width="30"/> about coding!</h2>
+
+* 🌳 I’m currently learning React ! <img src="assets/physics.gif" width="30"/> <br> 
+Actively Going through:
+  - Big Data
+  - Web Development Bootcamp
+  - Udemy: Begineer to Advance React Course  <br>
+
+* 🐾 I’m looking to network! <br><br>
+
+* 🌊 2023 Goals: Contribute more to Open Source projects <br><br>
+
+* ☕ Interest: Chess, Coffee, and Coding. <br><br>
+
+* :octocat: Hobbies: Reading, Games, Discord, and Reddit. <br><br>
+
+<h2></h2><br>
+
+<p align="center"> 
+  <img src="assets/nightlife.gif" alt="Lofi Nightlight scene" /> 
+</p>
 <!-- ![]() -->
 <!-- ### Hi there 👋 -->
 
