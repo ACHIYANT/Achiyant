@@ -18,15 +18,19 @@
 Actively Going through:
   - Big Data
   - Web Development Bootcamp
-  - Udemy: Begineer to Advance React Course  <br>
+  - Udemy: Begineer to Advance React Course <br>
+* 🐾 I’m looking to network! <br>
+* 🌊 2023 Goals: Contribute more to Open Source projects <br>
+* ☕ Interest: Chess, Coffee, and Coding. <br>
+* :octocat: Hobbies: Reading, Games, Discord, and Reddit. <br>
 
-* 🐾 I’m looking to network! <br><br>
+<h2 align="center">🎊 Few of my awesome projects:</h2>
 
-* 🌊 2023 Goals: Contribute more to Open Source projects <br><br>
-
-* ☕ Interest: Chess, Coffee, and Coding. <br><br>
-
-* :octocat: Hobbies: Reading, Games, Discord, and Reddit. <br><br>
+- Weather app - Ready for an adventure💼? Time to pack your bags and make a list longer than your weekend Netflix🍿 binge! [(link)](https://achiyant-weather.netlify.app)
+- Travel list - Check out your city's weather🌡, because even Mother Nature has a daily costume🧥 change! [(link)](https://farawaylist.netlify.app)
+- Medical test recommender - Your personal health compass, guiding you to the right medical tests. [(link)](https://symptomscheck.streamlit.app)
+- Face recognition attendance system - Smile😊 for the camera - it's your passport to punctuality! [(link)](https://github.com/ACHIYANT/Face-Recognition-Attendance-System)
+<!---  Windows application built with Electron to securely share files [(link)](https://github.com/sibi-sharanyan/Secure-File-Share/tree/master/dist) -->
 
 <h2></h2><br>
 
