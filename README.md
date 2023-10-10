@@ -26,7 +26,7 @@ Actively Going through:
 
 <h2 align="center">🎊 Few of my awesome projects:</h2>
 
-- Weather app - Ready for an adventure💼? Time to pack your bags and make a list longer than your weekend Netflix🍿 binge! [(link)](https://achiyant-weather.netlify.app)
+- Weather app - Ready for an adventure💼? Time to pack your bags and make a list longer than your weekend Netflix🍿. [(link)](https://achiyant-weather.netlify.app)
 - Travel list - Check out your city's weather🌡, because even Mother Nature has a daily costume🧥 change! [(link)](https://farawaylist.netlify.app)
 - Medical test recommender - Your personal health compass, guiding you to the right medical tests. [(link)](https://symptomscheck.streamlit.app)
 - Face recognition attendance system - Smile😊 for the camera - it's your passport to punctuality! [(link)](https://github.com/ACHIYANT/Face-Recognition-Attendance-System)
