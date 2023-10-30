@@ -26,7 +26,7 @@ Actively Going through:
 
 <h2 align="center">🎊 Few of my awesome projects:</h2>
 
-- Popcorn - Searching for movies made easy: We're the 'popcorn' app, where movies pop into your life faster than you can say, 'Buttered or plain?' 🍿😄 [(link)](https://popcorn-achiyant.vercel.app)
+- Popcorn - Where you can search for movies, rate them, and have your own personal 'pop'corn-o-meter! 🍿 [(link)](https://popcorn-achiyant.vercel.app)
 - Travel list - Ready for an adventure💼? Time to pack your bags and make a list longer than your weekend Netflix🍿! [(link)](https://farawaylist.netlify.app)
 - Weather app - Check out your city's weather🌡, because even Mother Nature has a daily costume🧥 change! [(link)](https://achiyant-weather.netlify.app)
 - Medical test recommender - Your personal health compass, guiding you to the right medical tests. [(link)](https://symptomscheck.streamlit.app)
